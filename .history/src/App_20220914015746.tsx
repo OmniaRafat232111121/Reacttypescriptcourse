@@ -9,8 +9,12 @@ export default function App() {
 
   return (
     <>
+   { /*
+     <State/>
+    // <HandleForm/>
+    */}
       <p>Value: {state.inputValue}</p>
-      <button onClick={() => dispatch({ type: "SET_INPUT_VALUE_TO_100" })}>
+      <button onClick={() => dispatch({ type: "SET_INPUT_VALUE_100"  })}>
         SET VALUE TO 100
       </button>
     </>
