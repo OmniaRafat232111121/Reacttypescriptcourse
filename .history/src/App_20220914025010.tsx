@@ -15,7 +15,7 @@ export default function App() {
       <button onClick={() => dispatch({ type: "SET_INPUT_VALUE_TO_100" })}>
         SET VALUE TO 100
       </button> */}
- </>
+
      
   
   );

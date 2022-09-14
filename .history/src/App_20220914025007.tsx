@@ -10,12 +10,12 @@ export default function App() {
   return (
     <>
      
-   
+    </>
       {/* <p>Value: {state.inputValue}</p>
       <button onClick={() => dispatch({ type: "SET_INPUT_VALUE_TO_100" })}>
         SET VALUE TO 100
       </button> */}
- </>
+
      
   
   );
